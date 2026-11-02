@@ -142,7 +142,7 @@ The following screenshots demonstrate the system's LCD interface, parking slot i
 - **Display:** 16×2 LCD (4-bit interface)
 - **Input:** 4×4 Matrix Keypad
 - **Output:** GPIO-controlled LEDs
-- **Timer:** Timer0 / Match Output (MAT0.0)
+- **Timer:** Timer0
 
 ### Concepts Implemented
 
